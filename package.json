@@ -11,5 +11,20 @@
     "terser-webpack-plugin": "2.2.2",
     "webpack": "4.41.3",
     "webpack-cli": "3.3.10"
+  },
+  "dependencies": {
+    "autoprefixer": "9.8.0",
+    "bootstrap": "4.5.0",
+    "css-loader": "3.6.0",
+    "jquery": "3.5.1",
+    "node-sass": "4.14.1",
+    "popper.js": "1.16.1",
+    "postcss-loader": "3.0.0",
+    "precss": "4.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "sass-loader": "8.0.2",
+    "style-loader": "1.2.1",
+    "ts-loader": "7.0.5"
   }
 }
